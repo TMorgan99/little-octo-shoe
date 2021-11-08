@@ -1,0 +1,20 @@
+{
+  "name": "@example/starter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^0.20.12",
+    "@astrojs/renderer-svelte": "^0.1.2"
+  },
+  "description": "[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/snowpackjs/astro/tree/latest/examples/starter)",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Tim Morgan <tmorgan99@gmail.com>",
+  "license": "ISC"
+}
